@@ -1,0 +1,7 @@
+LAPORAN REKAP NILAI MATEMATIKA
+==============================
+Rata-rata : 76.00
+Nilai minimum : 55.00
+Nilai maksimum : 92.00
+Jumlah tuntas : 6
+Jumlah belum tuntas : 1

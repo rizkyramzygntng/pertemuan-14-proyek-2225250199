@@ -1,0 +1,7 @@
+A001,Ayu,85
+A002,Budi,78
+A003,Citra,92
+A004,Dimas,60
+A005,Eka,74
+A006,Fajar,88
+A007,Gina,55
